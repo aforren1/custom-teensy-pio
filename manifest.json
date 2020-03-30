@@ -1,8 +1,0 @@
-{"framework-arduinoteensy": [
-    {
-      "system": "*", 
-      "url": "https://github.com/aforren1/custom-teensy-pio/archive/master.zip", 
-      "version": "1.151.0"
-    }
-]
-}
