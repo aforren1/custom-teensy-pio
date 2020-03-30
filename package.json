@@ -3,5 +3,5 @@
     "description": "Arduino Wiring-based Framework (Teensy Core)",
     "system": "*",
     "url": "https://github.com/aforren1/cores",
-    "version":"1.151.0"
+    "version":"1.152.0"
 }
